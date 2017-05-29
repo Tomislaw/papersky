@@ -1,0 +1,7 @@
+﻿  menu.cpp
+d:\microsoft visual studio\projects\papersky\papersky\src\menu.cpp(20): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\microsoft visual studio\projects\papersky\papersky\src\menu.cpp(21): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\microsoft visual studio\projects\papersky\papersky\src\menu.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\microsoft visual studio\projects\papersky\papersky\src\menu.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  Papersky.vcxproj -> D:\Microsoft Visual Studio\Projects\Papersky\Debug\Papersky.exe
+  Papersky.vcxproj -> D:\Microsoft Visual Studio\Projects\Papersky\Debug\Papersky.pdb (Partial PDB)

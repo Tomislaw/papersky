@@ -1,0 +1,32 @@
+PAPERSKY
+
+ANIMATION
+{
+Name = "player"
+Id = "player0"
+Animations_count = "4"
+Animation_0 = "walk_right"
+Animation_0_speed = "0.1"
+Animation_0_frames = "4"
+Animation_0_frame_0 = "0,140,100,140"
+Animation_0_frame_1 = "100,140,100,140"
+Animation_0_frame_2 = "200,140,100,140"
+Animation_0_frame_3 = "300,140,100,140"
+Animation_1 = "walk_left"
+Animation_1_speed = "0.1"
+Animation_1_frames = "4"
+Animation_1_frame_0 = "0,281,100,138"
+Animation_1_frame_1 = "100,281,100,138"
+Animation_1_frame_2 = "200,281,100,138"
+Animation_1_frame_3 = "300,281,100,138"
+Animation_2 = "idle_right"
+Animation_2_speed = "0"
+Animation_2_frames = "1"
+Animation_2_frame_0 = "0,0,100,140"
+Animation_3 = "idle_left"
+Animation_3_speed = "0.1"
+Animation_3_frames = "1"
+Animation_3_frame_0 = "0,0,100,140"
+}
+
+PAPERSKY_END
