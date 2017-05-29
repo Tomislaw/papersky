@@ -1,0 +1,85 @@
+PAPERSKY
+
+TEXTURE
+{
+Id = "maintiles"
+File = "textures/tiles/maintiles.png"
+}
+TEXTURE
+{
+Id = "player0"
+File = "textures/player/player.png"
+}
+
+TILE
+{
+Id = "0"
+Name = "air"
+Vertex_amount = "1"
+Collision_shape = "0,0"
+Top_points = "0"
+Texture = "maintiles"
+Size = "0,0"
+Position = "0,0"
+}
+
+TILE
+{
+Id = "1"
+Name = "main"
+Vertex_amount = "4"
+Collision_shape = "-25,-25,-25,25,25,25,25,-25"
+Top_points = "0,3"
+Texture = "maintiles"
+Size = "64,64"
+Position = "0,0"
+}
+
+TILE
+{
+Id = "2"
+Name = "slope01"
+Vertex_amount = "3"
+Collision_shape = "-25,-25,25,25,-25,25"
+Top_points = "0,1"
+Texture = "maintiles"
+Size = "64,64"
+Position = "64,0"
+}
+
+TILE
+{
+Id = "3"
+Name = "slope02"
+Vertex_amount = "3"
+Collision_shape = "-25,25,25,25,25,-25"
+Top_points = "0,2"
+Texture = "maintiles"
+Size = "64,64"
+Position = "128,0"
+}
+
+TILE
+{
+Id = "4"
+Name = "cube"
+Vertex_amount = "4"
+Collision_shape = "-25,-25,-25,25,25,25,25,-25"
+Top_points = "0,3"
+Texture = "maintiles"
+Size = "64,64"
+Position = "192,0"
+}
+TILE
+{
+Id = "5"
+Name = "5"
+Vertex_amount = "4"
+Collision_shape = "-25,-25,-25,25,25,25,25,-25"
+Top_points = "0,3"
+Texture = "maintiles"
+Size = "64,64"
+Position = "0,64"
+}
+
+PAPERSKY_END

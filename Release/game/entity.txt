@@ -1,0 +1,19 @@
+PAPERSKY
+
+PLAYER
+{
+Id = "Player0"
+Name = "Player"
+Texture = "player0"
+Sprite = "playersprite0"
+Movement_impulse = "20"
+Movement_speed = "200"
+Vertex_amount = "4"
+Collision_shape = "-16,0,0,-25,16,0,0,25"
+Left_collide_points = "0"
+Right_collide_points = "2"
+Top_collide_points = "1"
+Bottom_collide_points = "3"
+}
+
+PAPERSKY_END

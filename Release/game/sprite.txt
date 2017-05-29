@@ -1,0 +1,15 @@
+PAPERSKY
+
+ANIMATED_SPRITE
+{
+Name = "Player0"
+Id = "playersprite0"
+Texture = "player0"
+Image_size = "100,140"
+Image_start = "0,0" 
+Scale = "0.5,0.5"
+Center = "50,80"
+Animations = "player"
+}
+
+PAPERSKY_END
